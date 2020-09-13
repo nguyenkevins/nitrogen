@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/Falconerd/discord-bot-github.svg?branch=develop)](https://travis-ci.org/Falconerd/discord-bot-github)
-[![codecov](https://codecov.io/gh/Falconerd/discord-bot-github/branch/develop/graph/badge.svg)](https://codecov.io/gh/Falconerd/discord-bot-github)
 
 # nitrogen
 
