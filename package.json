@@ -1,5 +1,5 @@
 {
-  "name": "Nitrogen Bot",
+  "name": "nitrogen",
   "version": "1.0.0",
   "dependencies": {
     "ahocorasick": "^1.0.2",
