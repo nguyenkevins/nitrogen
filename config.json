@@ -1,0 +1,16 @@
+{
+  "token": "",
+  "prefix": "/",
+
+  "host": "localhost",
+  "user": "root",
+  "password": "",
+  "database": "sadb",
+
+  "serverName": "Nitrogen Server",
+  "description": "a server where you can talk about stuff",
+
+  "startingExperience": "50",
+  "incrementExperience": "5",
+  "decrementExperience": "-5"
+}

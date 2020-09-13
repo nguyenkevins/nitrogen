@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9243befc-fc8c-4f67-b2a3-a581ada3f759" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hEsByjXXoT0TAvsU7yth71scDb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.56" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/core.js" />
+    <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../../../../Program Files/nodejs/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Nitrogen Compiler" type="NodeJSConfigurationType" path-to-js-file="core.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9243befc-fc8c-4f67-b2a3-a581ada3f759" name="Default Changelist" comment="" />
+      <created>1599587455820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599587455820</updated>
+      <workItem from="1599587457618" duration="2959000" />
+      <workItem from="1599635370239" duration="16512000" />
+      <workItem from="1599698282758" duration="26350000" />
+      <workItem from="1599791650427" duration="2327000" />
+      <workItem from="1599814056429" duration="4018000" />
+      <workItem from="1599874381279" duration="2069000" />
+      <workItem from="1599904108836" duration="9167000" />
+      <workItem from="1599976999902" duration="12182000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="141" key="#Node.js_and_NPM" timestamp="1599587603868">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="395" y="141" key="#Node.js_and_NPM/0.0.1366.728@0.0.1366.728" timestamp="1599587603868" />
+    <state x="193" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599861367553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599587739994" />
+    <state x="193" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599861367553" />
+    <state x="733" y="318" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599980606064">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="733" y="318" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1599980606064" />
+    <state x="649" y="150" key="FileChooserDialogImpl" timestamp="1599861365471">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="462" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599587737765" />
+    <state x="649" y="150" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599861365471" />
+    <state x="783" y="438" key="Github.CreateGistDialog" timestamp="1600020306403">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="783" y="438" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600020306403" />
+    <state width="1897" height="142" key="GridCell.Tab.0.bottom" timestamp="1599949161878">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1345" height="87" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599689932288" />
+    <state width="1897" height="142" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599949161878" />
+    <state width="1897" height="142" key="GridCell.Tab.0.center" timestamp="1599949161878">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1345" height="87" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599689932288" />
+    <state width="1897" height="142" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599949161878" />
+    <state width="1897" height="142" key="GridCell.Tab.0.left" timestamp="1599949161878">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1345" height="87" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599689932288" />
+    <state width="1897" height="142" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599949161878" />
+    <state width="1897" height="142" key="GridCell.Tab.0.right" timestamp="1599949161878">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1345" height="87" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599689932288" />
+    <state width="1897" height="142" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599949161878" />
+    <state x="399" y="171" key="jetbrains.nodejs.interpreters-dialog" timestamp="1599587596631">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="399" y="171" key="jetbrains.nodejs.interpreters-dialog/0.0.1366.728@0.0.1366.728" timestamp="1599587596631" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1599587803833">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1599587803833" />
+  </component>
+</project>

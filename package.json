@@ -1,0 +1,9 @@
+{
+  "name": "Nitrogen Bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "ahocorasick": "^1.0.2",
+    "discord.js": "^12.3.1",
+    "mysql": "^2.18.1"
+  }
+}
