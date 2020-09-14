@@ -42,6 +42,7 @@ CREATE TABLE date(id VARCHAR(30) NOT NULL, month INT NOT NULL, day INT NOT NULL,
 By performing those 2 commands, the 2 tables should be described like this:
 
 ```
+exp
 +-------+-------------+------+-----+---------+-------+
 | Field | Type        | Null | Key | Default | Extra |
 +-------+-------------+------+-----+---------+-------+
@@ -49,6 +50,7 @@ By performing those 2 commands, the 2 tables should be described like this:
 | exp   | int         | NO   |     | NULL    |       |
 +-------+-------------+------+-----+---------+-------+
 
+date
 +--------+-------------+------+-----+---------+-------+
 | Field  | Type        | Null | Key | Default | Extra |
 +--------+-------------+------+-----+---------+-------+
