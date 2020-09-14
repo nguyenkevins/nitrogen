@@ -40,12 +40,14 @@ CREATE TABLE date(id VARCHAR(30) NOT NULL, month INT NOT NULL, day INT NOT NULL,
 ```
 
 By performing those 2 commands, the 2 tables should be described like this:
+
 +-------+-------------+------+-----+---------+-------+
 | Field | Type        | Null | Key | Default | Extra |
 +-------+-------------+------+-----+---------+-------+
 | id    | varchar(30) | NO   |     | NULL    |       |
 | exp   | int         | NO   |     | NULL    |       |
 +-------+-------------+------+-----+---------+-------+
+
 
 +--------+-------------+------+-----+---------+-------+
 | Field  | Type        | Null | Key | Default | Extra |
