@@ -9,7 +9,9 @@
 * Activity Bug Fix
 
 ## Summary
-Nitrogen is a multi-purpose discord bot 
-
-
-
+Nitrogen is a multi-purpose discord bot, which has the following functionality:
+* Remove a message that contains a listed banned word
+* See the time when the user was last online
+* View user experience progression and level
+* Display server information
+* Kick/Ban a user
