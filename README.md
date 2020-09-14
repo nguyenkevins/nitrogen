@@ -15,3 +15,10 @@ Nitrogen is a multi-purpose discord bot, which has the following functionality:
 * View user experience progression and level
 * Display server information
 * Kick/Ban a user
+
+## Prerequisite
+* MySQL v8.x
+* Node.js v12.x
+* npm v6.x
+* Discord.js v12
+* Aho Corasick Javascript
