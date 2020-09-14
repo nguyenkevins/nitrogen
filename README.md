@@ -30,3 +30,6 @@ This bot currently has 2 tables for it to run:
 * date (user recent online time)
 
 To create the exp table, do this:
+```mysql
+CREATE TABLE exp(id VARCHAR(30) NOT NULL, exp INT NOT NULL);
+```
