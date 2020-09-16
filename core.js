@@ -1,3 +1,14 @@
+/*------------------------------------------------------------------------------
+core.py
+--------------------------------------------------------------------------------
+In order to use commands that is made for the bot, this file is required.
+The core file uses the config file and treats it like a setting, which contains
+easy and modifiable variables.
+
+author: Kevin Nguyen
+date: 9/15/2020
+------------------------------------------------------------------------------*/
+
 const {
     token,
 	prefix,
@@ -16,7 +27,6 @@ const mysql = require("mysql");
 let acalg = require('ahocorasick');
 
 const client = new Discord.Client();
-
 
 const start_d = new Date();
 
