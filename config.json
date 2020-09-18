@@ -1,10 +1,10 @@
 {
-  "token": "NzUyNzQzNTM4MTAxMzIxNzQ5.X1cFDA.blaeLxXCpjuL7wAMvegGWNaXr8g",
+  "token": "",
   "prefix": "/",
 
   "host": "localhost",
   "user": "root",
-  "password": "20114zse",
+  "password": "",
   "database": "sadb",
 
   "serverName": "Nitrogen Server",
