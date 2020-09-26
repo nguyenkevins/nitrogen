@@ -22,7 +22,6 @@ Nitrogen is a multi-purpose discord bot, which has the following functionalities
 * Node.js v12.x
 * npm v6.x
 * Discord.js v12
-* Aho Corasick Javascript
 
 ## MySQL Setup
 This bot currently has 2 tables for it to run:
